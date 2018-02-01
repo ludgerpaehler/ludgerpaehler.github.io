@@ -1,0 +1,10 @@
+@article{tritschler2013kolmogorov,
+  title={On the Kolmogorov inertial subrange developing from Richtmyer-Meshkov instability},
+  author={Tritschler, VK and Hickel, S and Hu, XY and Adams, NA},
+  journal={Physics of Fluids},
+  volume={25},
+  number={7},
+  pages={071701},
+  year={2013},
+  publisher={AIP}
+}
