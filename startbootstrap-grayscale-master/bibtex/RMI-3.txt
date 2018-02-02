@@ -1,9 +1,0 @@
-@article{tritschler2014richtmyer,
-  title={On the Richtmyer--Meshkov instability evolving from a deterministic multimode planar interface},
-  author={Tritschler, VK and Olson, BJ and Lele, SK and Hickel, STEFAN and Hu, XY and Adams, Nikolaus Andreas},
-  journal={Journal of Fluid Mechanics},
-  volume={755},
-  pages={429--462},
-  year={2014},
-  publisher={Cambridge University Press}
-}

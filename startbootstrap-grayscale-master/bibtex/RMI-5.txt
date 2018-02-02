@@ -1,6 +1,0 @@
-@article{hu2012dispersion,
-  title={Dispersion-dissipation condition for finite difference schemes},
-  author={Hu, XY and Tritschler, VK and Pirozzoli, S and Adams, NA},
-  journal={arXiv preprint arXiv:1204.5088},
-  year={2012}
-}
