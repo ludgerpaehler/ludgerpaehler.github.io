@@ -1,7 +1,6 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
+## This Webpage
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
+This personal research webpage is based on Bootstrap, where the one page HTML theme [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) has been used.
 
 ## About
 
